@@ -20,6 +20,11 @@ The website's main functionalities are listed below and later discussed along wi
 10) Video Chat integration for the hearing-disabled. This requires connecting customers with only executives who are free.
 
 
+## Home page
+
+<img width="1728" alt="Screenshot 2023-07-16 at 6 20 53 PM" src="https://github.com/ashKetchum20020227/Amazon-clone/assets/135194797/fe9b4271-5245-41e0-af41-b8cdb86c83d6">
+
+
 ## Functionalities
 
 Discussed in the same order as mentioned above along with respective pictures in atleast 2 device formats.
@@ -111,9 +116,24 @@ The below image is from the executive's account.
     <img width="1728" alt="Screenshot 2023-07-14 at 7 51 43 PM" src="https://github.com/ashKetchum20020227/Amazon-clone/assets/135194797/afb8d4b7-ee45-4115-be78-ba10691fc93d">
     <img width="1728" alt="Screenshot 2023-07-14 at 7 51 16 PM" src="https://github.com/ashKetchum20020227/Amazon-clone/assets/135194797/5c35ce95-f3e0-4232-97b9-3f7546661d23">
 
-    
 
+## Responsive Images
 
+The below images showcase the responsiveness of the website in various devices.
+
+<img width="1728" alt="Screenshot 2023-07-16 at 6 21 34 PM" src="https://github.com/ashKetchum20020227/Amazon-clone/assets/135194797/3193e7ea-88d6-4f9e-9fa0-c36f761eabbb">
+
+<img width="1728" alt="Screenshot 2023-07-16 at 6 21 43 PM" src="https://github.com/ashKetchum20020227/Amazon-clone/assets/135194797/38e72a02-401b-407c-b842-68e3d9de93cc">
+
+<img width="1728" alt="Screenshot 2023-07-16 at 6 21 53 PM" src="https://github.com/ashKetchum20020227/Amazon-clone/assets/135194797/f7cd3b7a-3cc1-4c74-be5d-bee2113280e5">
+
+<img width="1728" alt="Screenshot 2023-07-16 at 6 22 02 PM" src="https://github.com/ashKetchum20020227/Amazon-clone/assets/135194797/e515a21f-415c-4289-aa33-15a7f1b093db">
+
+<img width="1728" alt="Screenshot 2023-07-16 at 6 22 12 PM" src="https://github.com/ashKetchum20020227/Amazon-clone/assets/135194797/c7016b61-6b10-4437-9e82-cd90953fbd5f">
+
+<img width="1728" alt="Screenshot 2023-07-16 at 6 23 32 PM" src="https://github.com/ashKetchum20020227/Amazon-clone/assets/135194797/bdce9a83-c17c-4600-98dd-6a52937c0731">
+
+<img width="1728" alt="Screenshot 2023-07-16 at 6 23 37 PM" src="https://github.com/ashKetchum20020227/Amazon-clone/assets/135194797/a60abcd0-3476-47e4-8522-7917bbfd471a">
 
 
 
