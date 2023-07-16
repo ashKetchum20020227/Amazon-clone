@@ -1,4 +1,4 @@
-<img width="1728" alt="Screenshot 2023-07-14 at 7 43 18 PM" src="https://github.com/ashKetchum20020227/Amazon-clone/assets/135194797/50753593-eef8-40e4-8a62-3a58dab6f61c"># Fakemazon (Full Stack Amazon-clone)
+# Fakemazon (Full Stack Amazon-clone)
 
 ## Overview
 
@@ -78,8 +78,7 @@ During login, the user's email and password are validated against the stored cre
 
   All of the user's orders are stored in an embedded document as an array as shown in the image above. The products in a single order are coupled together. The orders can
   be filtered based on time just like in the original website.
-  In the image below, I have selected the option 14 days, which only shows orders that were placed in the last 14 days. For the sake of continuity, the only order that was
-  placed in this account was the one placed above while showing a functionality. Other orders shown in the above image disappear when you select this option.
+  In the image below, I have selected the option 14 days, which only shows orders that were placed in the last 14 days. For the sake of continuity, the only order that     was placed in this account was the one placed above while showing a functionality. Other orders shown in the above image disappear when you select this option.
   
 <img width="1728" alt="Screenshot 2023-07-14 at 7 43 57 PM" src="https://github.com/ashKetchum20020227/Amazon-clone/assets/135194797/16cd9ab4-4104-4e54-b5c8-1578fadfa461">
 
@@ -92,7 +91,7 @@ During login, the user's email and password are validated against the stored cre
 
 9) Customer Care Chat Functionality
 
-    A user can chat with a customer care executive. When he enters the chat page, he is directly connected to an executive that is online. The user, if disconnected can
+   A user can chat with a customer care executive. When he enters the chat page, he is directly connected to an executive that is online. The user, if disconnected can
    continue his chat from the previous session with the same executive. A feature can be added to delete the conversation after 24 hours.
 
 <img width="1728" alt="Screenshot 2023-07-14 at 7 44 35 PM" src="https://github.com/ashKetchum20020227/Amazon-clone/assets/135194797/7f9ff8f4-3ed2-4e26-8022-646544d1180b">
